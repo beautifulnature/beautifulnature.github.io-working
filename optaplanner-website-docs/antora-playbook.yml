@@ -2,7 +2,7 @@
 # For local development, see antora-playbook-author.yml.
 site:
   title: Documentation
-  url: https://www.optaplanner.org/docs
+  url: https://beautifulnature.github.io/docs
   start_page: optaplanner::planner-introduction/planner-introduction.adoc
   robots: allow
   keys:
