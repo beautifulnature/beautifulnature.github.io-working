@@ -12,7 +12,7 @@
             <title type="html">OptaPlanner documentation turns over a new leaf</title>
             <updated>2021-10-26T00:00:00+00:00</updated>
             <published>2021-10-26T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2021/10/26/DocsTurnOverANewLeaf.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2021/10/26/DocsTurnOverANewLeaf.html" rel="alternate" type="text/html" />
             <author>
                 <name>rsynek</name>
             </author>
@@ -186,7 +186,7 @@ remains available for every release.&lt;/p&gt;
             <title type="html">Order picking optimization in warehouses and supermarkets with OptaPlanner</title>
             <updated>2021-10-14T00:00:00+00:00</updated>
             <published>2021-10-14T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2021/10/14/OrderPickingQuickstart.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2021/10/14/OrderPickingQuickstart.html" rel="alternate" type="text/html" />
             <author>
                 <name>wmedvede</name>
             </author>
@@ -493,7 +493,7 @@ $ git checkout development&lt;/pre&gt;
             <title type="html">Monitor OptaPlanner solvers through Micrometer</title>
             <updated>2021-10-12T00:00:00+00:00</updated>
             <published>2021-10-12T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2021/10/12/MonitorTheSolver.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2021/10/12/MonitorTheSolver.html" rel="alternate" type="text/html" />
             <author>
                 <name>Christopher-Chianelli</name>
             </author>
@@ -829,7 +829,7 @@ As always, the complete source code for this example is &lt;a href=&quot;https:/
             <title type="html">A new AI constraint solver for Python: OptaPy</title>
             <updated>2021-10-05T00:00:00+00:00</updated>
             <published>2021-10-05T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2021/10/05/ANewAIConstraintSolverForPythonOptaPy.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2021/10/05/ANewAIConstraintSolverForPythonOptaPy.html" rel="alternate" type="text/html" />
             <author>
                 <name>Christopher-Chianelli</name>
             </author>
@@ -1412,7 +1412,7 @@ The full example can be found in the &lt;a href=&quot;https://github.com/optapy/
             <title type="html">How much faster is Java 17?</title>
             <updated>2021-09-15T00:00:00+00:00</updated>
             <published>2021-09-15T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2021/09/15/HowMuchFasterIsJava17.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2021/09/15/HowMuchFasterIsJava17.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -1963,7 +1963,7 @@ Don&amp;#8217;t compare apples and oranges.&lt;/p&gt;
             <title type="html">Constraint Streams get some more love</title>
             <updated>2021-08-19T00:00:00+00:00</updated>
             <published>2021-08-19T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2021/08/19/ConstraintStreamsSomeMoreLove.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2021/08/19/ConstraintStreamsSomeMoreLove.html" rel="alternate" type="text/html" />
             <author>
                 <name>triceo</name>
             </author>
@@ -2143,7 +2143,7 @@ If you want to make sure we can solve your problems too, &lt;a href=&quot;https:
             <title type="html">Let&amp;#8217;s OptaPlan your jBPM tasks (part 2) - BPM Task assigning in the cloud</title>
             <updated>2021-07-26T00:00:00+00:00</updated>
             <published>2021-07-26T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2021/07/26/LetsOptaPlanYourJbpmTasksPart2.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2021/07/26/LetsOptaPlanYourJbpmTasksPart2.html" rel="alternate" type="text/html" />
             <author>
                 <name>wmedvede</name>
             </author>
@@ -2406,7 +2406,7 @@ If you want to make sure we can solve your problems too, &lt;a href=&quot;https:
             <title type="html">Static website generation with Java, Maven and JBake</title>
             <updated>2021-06-09T00:00:00+00:00</updated>
             <published>2021-06-09T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2021/06/09/StaticWebsiteGenerationWithJavaMavenAndJBake.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2021/06/09/StaticWebsiteGenerationWithJavaMavenAndJBake.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -2789,7 +2789,7 @@ $ firefox target/website/index.html&lt;/code&gt;&lt;/pre&gt;
             <title type="html">Writing fast constraints with OptaPlanner: the secret recipe</title>
             <updated>2021-05-25T00:00:00+00:00</updated>
             <published>2021-05-25T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2021/05/25/WritingFastConstraintStreamsSecretRecipe.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2021/05/25/WritingFastConstraintStreamsSecretRecipe.html" rel="alternate" type="text/html" />
             <author>
                 <name>triceo</name>
             </author>
@@ -3063,7 +3063,7 @@ but none of them will give as big a benefit as reducing the size of cross produc
             <title type="html">The path to OptaPlanner enlightenment starts in the logs</title>
             <updated>2021-05-06T00:00:00+00:00</updated>
             <published>2021-05-06T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2021/05/06/ThePathToOptaPlannerEnlightenmentStartsInTheLog.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2021/05/06/ThePathToOptaPlannerEnlightenmentStartsInTheLog.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -3548,7 +3548,7 @@ Keep an eye on it.&lt;/p&gt;
             <title type="html">Batch solving a ActiveMQ queue that contains planning problem data sets in a scalable way</title>
             <updated>2021-03-25T00:00:00+00:00</updated>
             <published>2021-03-25T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2021/03/25/BatchSolvingWithAmq.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2021/03/25/BatchSolvingWithAmq.html" rel="alternate" type="text/html" />
             <author>
                 <name>rsynek</name>
             </author>
@@ -3870,7 +3870,7 @@ mp.messaging.outgoing.solver_response.durable=true&lt;/code&gt;&lt;/pre&gt;
             <title type="html">Optimizing COVID-19 vaccination appointment scheduling</title>
             <updated>2021-03-04T00:00:00+00:00</updated>
             <published>2021-03-04T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2021/03/04/OptimizingCovid19VaccinationScheduling.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2021/03/04/OptimizingCovid19VaccinationScheduling.html" rel="alternate" type="text/html" />
             <author>
                 <name>pauljamesbrown</name>
             </author>
@@ -4197,7 +4197,7 @@ You don’t actually see these states directly in the quickstart demo code becau
             <title type="html">How much faster is Java 15?</title>
             <updated>2021-01-26T00:00:00+00:00</updated>
             <published>2021-01-26T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2021/01/26/HowMuchFasterIsJava15.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2021/01/26/HowMuchFasterIsJava15.html" rel="alternate" type="text/html" />
             <author>
                 <name>michaltomco</name>
             </author>
@@ -4597,7 +4597,7 @@ factor when it comes to garbage collection.&lt;/p&gt;
             <title type="html">Solve the facility location problem</title>
             <updated>2020-10-09T00:00:00+00:00</updated>
             <published>2020-10-09T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2020/10/09/FacilityLocationProblemQuickstart.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2020/10/09/FacilityLocationProblemQuickstart.html" rel="alternate" type="text/html" />
             <author>
                 <name>yurloc</name>
             </author>
@@ -4818,7 +4818,7 @@ It is just a matter of deciding the distance constraint weight.&lt;/p&gt;
             <title type="html">OptaPlanner Week 2020 recordings</title>
             <updated>2020-07-09T00:00:00+00:00</updated>
             <published>2020-07-09T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2020/09/07/OptaPlannerWeek2020.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2020/09/07/OptaPlannerWeek2020.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -4976,7 +4976,7 @@ for the great week with so many insights into how to build constrained optimizat
             <title type="html">Let&amp;#8217;s OptaPlan your jBPM tasks (part 1) - Integrating the two worlds</title>
             <updated>2020-07-03T00:00:00+00:00</updated>
             <published>2020-07-03T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2020/07/03/LetsOptaPlanYourJbpmTasksPart1.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2020/07/03/LetsOptaPlanYourJbpmTasksPart1.html" rel="alternate" type="text/html" />
             <author>
                 <name>wmedvede</name>
             </author>
@@ -5360,7 +5360,7 @@ and the business data.&lt;/p&gt;
             <title type="html">AI versus COVID-19: How Java helps nurses and doctors in this fight</title>
             <updated>2020-05-08T00:00:00+00:00</updated>
             <published>2020-05-08T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2020/05/08/AIVersusCovid-19.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2020/05/08/AIVersusCovid-19.html" rel="alternate" type="text/html" />
             <author>
                 <name>Christopher-Chianelli</name>
             </author>
@@ -5579,7 +5579,7 @@ in &lt;a href=&quot;https://developers.redhat.com/devnation/tech-talks/AI-vs-cov
             <title type="html">Workflow processes with AI scheduling</title>
             <updated>2020-05-05T00:00:00+00:00</updated>
             <published>2020-05-05T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2020/05/05/WorkflowProcessesWithAIScheduling.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2020/05/05/WorkflowProcessesWithAIScheduling.html" rel="alternate" type="text/html" />
             <author>
                 <name>Christopher-Chianelli</name>
             </author>
@@ -6435,7 +6435,7 @@ waiting for solving to finish.&lt;/p&gt;
             <title type="html">Constraint Streams - Modern Java constraints without the Drools Rule Language</title>
             <updated>2020-04-07T00:00:00+00:00</updated>
             <published>2020-04-07T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2020/04/07/ConstraintStreams.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2020/04/07/ConstraintStreams.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -6686,7 +6686,7 @@ Think Test Driven Design. Stay tuned!&lt;/p&gt;
             <title type="html">How to plan (and optimize) a Secret Santa</title>
             <updated>2019-12-18T00:00:00+00:00</updated>
             <published>2019-12-18T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2019/12/18/HowToPlanAndOptimizeASecretSanta.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2019/12/18/HowToPlanAndOptimizeASecretSanta.html" rel="alternate" type="text/html" />
             <author>
                 <name>Christopher-Chianelli</name>
             </author>
@@ -6848,7 +6848,7 @@ find the full Secret Santa OptaPlanner example &lt;a href=&quot;https://github.c
             <title type="html">Exploring the new OptaWeb Employee Rostering backend</title>
             <updated>2019-10-22T00:00:00+00:00</updated>
             <published>2019-10-22T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2019/10/22/ExploringTheNewOptaWebEmployeeRosteringBackend.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2019/10/22/ExploringTheNewOptaWebEmployeeRosteringBackend.html" rel="alternate" type="text/html" />
             <author>
                 <name>jucui</name>
             </author>
@@ -7128,7 +7128,7 @@ The UI for this application was implemented in the Employee Rostering Frontend A
             <title type="html">Mechanic scheduling (part 3) - Simulation and load testing</title>
             <updated>2019-05-09T00:00:00+00:00</updated>
             <published>2019-05-09T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2019/05/09/RHSummit2019Part3.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2019/05/09/RHSummit2019Part3.html" rel="alternate" type="text/html" />
             <author>
                 <name>rsynek</name>
             </author>
@@ -7431,7 +7431,7 @@ who can set up a show like no other!&lt;/p&gt;
             <title type="html">Mechanic scheduling (part 2) - Architecture and integration</title>
             <updated>2019-05-09T00:00:00+00:00</updated>
             <published>2019-05-09T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2019/05/09/RHSummit2019Part2.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2019/05/09/RHSummit2019Part2.html" rel="alternate" type="text/html" />
             <author>
                 <name>MusaTalluzi</name>
             </author>
@@ -7636,7 +7636,7 @@ who can set up a show like no other!&lt;/p&gt;
             <title type="html">Mechanic scheduling (part 1) - Can OptaPlanner keep up with a keynote audience of thousands?</title>
             <updated>2019-05-09T00:00:00+00:00</updated>
             <published>2019-05-09T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2019/05/09/RHSummit2019Part1.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2019/05/09/RHSummit2019Part1.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -7855,7 +7855,7 @@ who can set up a show like no other!&lt;/p&gt;
             <title type="html">KIE Server OptaPlanner Task Assignment</title>
             <updated>2019-03-13T00:00:00+00:00</updated>
             <published>2019-03-13T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2019/03/13/KIEServerOptaPlannerTaskAssignment.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2019/03/13/KIEServerOptaPlannerTaskAssignment.html" rel="alternate" type="text/html" />
             <author>
                 <name>MusaTalluzi</name>
             </author>
@@ -8205,7 +8205,7 @@ Authentication for the role kie-server.
             <title type="html">How much faster is Java 11?</title>
             <updated>2019-01-17T00:00:00+00:00</updated>
             <published>2019-01-17T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2019/01/17/HowMuchFasterIsJava11.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2019/01/17/HowMuchFasterIsJava11.html" rel="alternate" type="text/html" />
             <author>
                 <name>rsynek</name>
             </author>
@@ -8614,7 +8614,7 @@ Despite the significant improvement for G1 GC, Parallel GC is still faster for m
             <title type="html">Red Hat Mobile Portfolio Truck dodges storms while keeping Sales happy with OptaPlanner</title>
             <updated>2018-11-19T00:00:00+00:00</updated>
             <published>2018-11-19T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2018/11/19/TruckDodgesStormsWhileKeepingSalesHappy.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2018/11/19/TruckDodgesStormsWhileKeepingSalesHappy.html" rel="alternate" type="text/html" />
             <author>
                 <name>sudheerchekka</name>
             </author>
@@ -8704,7 +8704,7 @@ by maximizing sales revenue opportunity, reducing fuel and labor costs under con
             <title type="html">Unit testing constraints with business input from Excel or LibreOffice</title>
             <updated>2018-08-21T00:00:00+00:00</updated>
             <published>2018-08-21T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2018/08/21/UnitTestingConstraintsWithBusinessInputFromExcelOrLibreOffice.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2018/08/21/UnitTestingConstraintsWithBusinessInputFromExcelOrLibreOffice.html" rel="alternate" type="text/html" />
             <author>
                 <name>MusaTalluzi</name>
             </author>
@@ -8880,7 +8880,7 @@ communication between developers and domain experts.&lt;/p&gt;
             <title type="html">How to defeat gerrymandering and create fair elections</title>
             <updated>2018-07-25T00:00:00+00:00</updated>
             <published>2018-07-25T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2018/07/25/HowToDefeatGerrymanderingAndCreateFairElections.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2018/07/25/HowToDefeatGerrymanderingAndCreateFairElections.html" rel="alternate" type="text/html" />
             <author>
                 <name>jgoldsmith613</name>
             </author>
@@ -8992,7 +8992,7 @@ With some more time, maybe one day &lt;a href=&quot;https://www.optaplanner.org/
             <title type="html">A giant leap forward with multithreaded incremental solving</title>
             <updated>2018-07-03T00:00:00+00:00</updated>
             <published>2018-07-03T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2018/07/03/AGiantLeapForwardWithMultithreadedIncrementalSolving.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2018/07/03/AGiantLeapForwardWithMultithreadedIncrementalSolving.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -9384,7 +9384,7 @@ If you have CPU cores to spare, of course.&lt;/p&gt;
             <title type="html">Behind the scenes of Red Hat Summit 2018 scheduling</title>
             <updated>2018-05-23T00:00:00+00:00</updated>
             <published>2018-05-23T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2018/05/23/BehindTheScenesOfRedHatSummitScheduling.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2018/05/23/BehindTheScenesOfRedHatSummitScheduling.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -9573,7 +9573,7 @@ If you&amp;#8217;re organizing a conference, take a look at the video below to t
             <title type="html">Scheduling Voxxed Days Zurich 2018 with OptaPlanner</title>
             <updated>2018-02-19T00:00:00+00:00</updated>
             <published>2018-02-19T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2018/02/19/SchedulingVoxxedDaysZurich2018.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2018/02/19/SchedulingVoxxedDaysZurich2018.html" rel="alternate" type="text/html" />
             <author>
                 <name>mariofusco</name>
             </author>
@@ -9731,7 +9731,7 @@ I’ll be able to enjoy the event and learn as much as possible from the amazing
             <title type="html">Java Reflection, but much faster</title>
             <updated>2018-01-09T00:00:00+00:00</updated>
             <published>2018-01-09T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2018/01/09/JavaReflectionButMuchFaster.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2018/01/09/JavaReflectionButMuchFaster.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -10269,7 +10269,7 @@ LambdaMetafactory   avgt   60  3.453 ± 0.034  ns/op //  33% slower&lt;/code&gt;
             <title type="html">Does A.I. include constraint solvers?</title>
             <updated>2017-09-07T00:00:00+00:00</updated>
             <published>2017-09-07T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2017/09/07/DoesAIIncludeConstraintSolvers.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2017/09/07/DoesAIIncludeConstraintSolvers.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -10423,7 +10423,7 @@ even though &lt;a href=&quot;https://en.wikipedia.org/wiki/Simulated_annealing&q
             <title type="html">Optimize your problems using KIE Execution Server</title>
             <updated>2017-08-18T00:00:00+00:00</updated>
             <published>2017-08-18T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2017/08/18/OptimizeYourProblemsUsingKieServerPart.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2017/08/18/OptimizeYourProblemsUsingKieServerPart.html" rel="alternate" type="text/html" />
             <author>
                 <name>mcimbora</name>
             </author>
@@ -10698,7 +10698,7 @@ or you use non-Java client, KIE Server is the right pick.&lt;/p&gt;
             <title type="html">Visualize the score and the constraints</title>
             <updated>2017-03-13T00:00:00+00:00</updated>
             <published>2017-03-13T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2017/03/13/VisualizeTheScoreAndTheConstraints.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2017/03/13/VisualizeTheScoreAndTheConstraints.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -10934,7 +10934,7 @@ Visualize which constraints and planning entities cause most harm.&lt;/p&gt;
             <title type="html">Formula for measuring unfairness</title>
             <updated>2017-02-03T00:00:00+00:00</updated>
             <published>2017-02-03T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2017/02/03/FormulaForMeasuringUnfairness.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2017/02/03/FormulaForMeasuringUnfairness.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -12136,7 +12136,7 @@ but it might suffer from numerical instability and overflow.&lt;/p&gt;
             <title type="html">How to become US president with less than a quarter of the votes</title>
             <updated>2016-12-06T00:00:00+00:00</updated>
             <published>2016-12-06T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2016/12/06/HowToBecomeUSPresidentWithLessThanAQuarterOfTheVotes.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2016/12/06/HowToBecomeUSPresidentWithLessThanAQuarterOfTheVotes.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -12389,7 +12389,7 @@ so earlier population data might yield different results (and it might have been
             <title type="html">Domain modeling guide</title>
             <updated>2016-10-26T00:00:00+00:00</updated>
             <published>2016-10-26T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2016/10/26/DomainModelingGuide.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2016/10/26/DomainModelingGuide.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -12605,7 +12605,7 @@ Also check out the details of shadow variables and chained variables in &lt;a hr
             <title type="html">A decade of OptaPlanner</title>
             <updated>2016-08-07T00:00:00+00:00</updated>
             <published>2016-08-07T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2016/08/07/ADecadeOfOptaPlanner.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2016/08/07/ADecadeOfOptaPlanner.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -12805,7 +12805,7 @@ and thousands of projects use it. A win-win situation.&lt;/p&gt;
             <title type="html">7 ways to fail your optimization project</title>
             <updated>2016-04-18T00:00:00+00:00</updated>
             <published>2016-04-18T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2016/04/18/7WaysToFailYourOptimizationProject.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2016/04/18/7WaysToFailYourOptimizationProject.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -13059,7 +13059,7 @@ Don&amp;#8217;t let them catch you off guard!&lt;/p&gt;
             <title type="html">What is the bottleneck in my Solver?</title>
             <updated>2016-02-12T00:00:00+00:00</updated>
             <published>2016-02-12T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2016/02/12/WhatIsTheBottleneckInMySolver.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2016/02/12/WhatIsTheBottleneckInMySolver.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -13160,7 +13160,7 @@ and fix the biggest bottlenecks first.&lt;/p&gt;
             <title type="html">Time scheduling design patterns</title>
             <updated>2015-12-01T00:00:00+00:00</updated>
             <published>2015-12-01T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2015/12/01/TimeSchedulingDesignPatterns.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2015/12/01/TimeSchedulingDesignPatterns.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -13267,7 +13267,7 @@ read &lt;a href=&quot;https://www.optaplanner.org/learn/documentation.html&quot;
             <title type="html">Sneak peek at OptaPlanner Workbench</title>
             <updated>2015-10-01T00:00:00+00:00</updated>
             <published>2015-10-01T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2015/10/01/SneakPeekAtOptaPlannerWorkbench.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2015/10/01/SneakPeekAtOptaPlannerWorkbench.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -13381,7 +13381,7 @@ It will be part of the KIE Workbench (also known as Business Central) and seamle
             <title type="html">How lucky are your random seeds?</title>
             <updated>2015-09-30T00:00:00+00:00</updated>
             <published>2015-09-30T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2015/09/30/HowLuckyAreYourRandomSeeds.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2015/09/30/HowLuckyAreYourRandomSeeds.html" rel="alternate" type="text/html" />
             <author>
                 <name>oskopek</name>
             </author>
@@ -13697,7 +13697,7 @@ but don&amp;#8217;t expect to always find a random seed that can affect the outc
             <title type="html">Integrating JPA Hibernate with OptaPlanner</title>
             <updated>2015-09-23T00:00:00+00:00</updated>
             <published>2015-09-23T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2015/09/23/IntegratingJpaHibernateWithOptaPlanner.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2015/09/23/IntegratingJpaHibernateWithOptaPlanner.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -13843,7 +13843,7 @@ public class Computer {
             <title type="html">What is the fastest Garbage Collector in Java 8?</title>
             <updated>2015-07-31T00:00:00+00:00</updated>
             <published>2015-07-31T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2015/07/31/WhatIsTheFastestGarbageCollectorInJava8.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2015/07/31/WhatIsTheFastestGarbageCollectorInJava8.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -14264,7 +14264,7 @@ But &lt;strong&gt;show me the benchmarks&lt;/strong&gt; on real projects first!&
             <title type="html">How good are human planners?</title>
             <updated>2015-06-03T00:00:00+00:00</updated>
             <published>2015-06-03T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2015/06/03/HowGoodAreHumanPlanners.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2015/06/03/HowGoodAreHumanPlanners.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -14565,7 +14565,7 @@ Furthermore, &lt;a href=&quot;https://www.optaplanner.org/blog/2013/10/11/WillSk
             <title type="html">OptaPlanner on Android</title>
             <updated>2015-05-19T00:00:00+00:00</updated>
             <published>2015-05-19T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2015/05/19/OptaPlannerOnAndroid.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2015/05/19/OptaPlannerOnAndroid.html" rel="alternate" type="text/html" />
             <author>
                 <name>tdavid</name>
             </author>
@@ -14714,7 +14714,7 @@ by the mentioned example.&lt;/p&gt;
             <title type="html">3 Bugs in The Ultimate American Road Trip of The Washington Post</title>
             <updated>2015-03-20T00:00:00+00:00</updated>
             <published>2015-03-20T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2015/03/20/3BugsInTheUltimateAmericanRoadTrip.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2015/03/20/3BugsInTheUltimateAmericanRoadTrip.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -14964,7 +14964,7 @@ we notice that the same trip (with both fixes) in the reverse direction is the s
             <title type="html">Visualizing Vehicle Routing with Leaflet and Google Maps</title>
             <updated>2015-03-10T00:00:00+00:00</updated>
             <published>2015-03-10T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2015/03/10/VisualizingVehicleRoutingWithLeafletAndGoogleMaps.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2015/03/10/VisualizingVehicleRoutingWithLeafletAndGoogleMaps.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -15058,7 +15058,7 @@ to see how it&amp;#8217;s done.&lt;/p&gt;
             <title type="html">How fast is logging?</title>
             <updated>2015-02-23T00:00:00+00:00</updated>
             <published>2015-02-23T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2015/02/23/HowFastIsLogging.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2015/02/23/HowFastIsLogging.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -15692,7 +15692,7 @@ In production, use &lt;code&gt;warn&lt;/code&gt; (or &lt;code&gt;info&lt;/code&g
             <title type="html">Scaling Vehicle Routing with Nearby Selection</title>
             <updated>2015-01-27T00:00:00+00:00</updated>
             <published>2015-01-27T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2015/01/27/ScalingVehicleRoutingAndTSPWithNearbySelection.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2015/01/27/ScalingVehicleRoutingAndTSPWithNearbySelection.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -15860,7 +15860,7 @@ upgrade to &lt;a href=&quot;https://www.optaplanner.org&quot;&gt;OptaPlanner&lt;
             <title type="html">Prototyping an enterprise webapp at Devoxx Hackergarten</title>
             <updated>2014-11-17T00:00:00+00:00</updated>
             <published>2014-11-17T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2014/11/17/Prototyping-a-full-webapp-at-Devoxx-hackergarten.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2014/11/17/Prototyping-a-full-webapp-at-Devoxx-hackergarten.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -16136,7 +16136,7 @@ And those are just the top 3 web UI frameworks!&lt;/p&gt;
             <title type="html">Open benchmarks for the win</title>
             <updated>2014-11-07T00:00:00+00:00</updated>
             <published>2014-11-07T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2014/11/07/OpenBenchmarksForTheWin.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2014/11/07/OpenBenchmarksForTheWin.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -16405,7 +16405,7 @@ That, together with a good statistical interface, will give us some &lt;em&gt;re
             <title type="html">Vehicle routing with real road distances</title>
             <updated>2014-09-02T00:00:00+00:00</updated>
             <published>2014-09-02T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2014/09/02/VehicleRoutingWithRealRoadDistances.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2014/09/02/VehicleRoutingWithRealRoadDistances.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -16543,7 +16543,7 @@ Solving an VRP with air distances and then apply road distances is suboptimal.&l
             <title type="html">Cheating on the N Queens benchmark</title>
             <updated>2014-05-12T00:00:00+00:00</updated>
             <published>2014-05-12T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2014/05/12/CheatingOnTheNQueensBenchmark.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2014/05/12/CheatingOnTheNQueensBenchmark.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -16711,7 +16711,7 @@ A realistic competition is &lt;strong&gt;an official, independent competition&lt
             <title type="html">Put the user in control of the score constraints</title>
             <updated>2014-04-17T00:00:00+00:00</updated>
             <published>2014-04-17T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2014/04/17/PutTheUserInControlOfTheScoreConstraints.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2014/04/17/PutTheUserInControlOfTheScoreConstraints.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -16909,7 +16909,7 @@ Those faster iterations, enables them to evolve the business planning quicker.&l
             <title type="html">Is the search space of an optimization problem really that big?</title>
             <updated>2014-03-27T00:00:00+00:00</updated>
             <published>2014-03-27T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2014/03/27/IsTheSearchSpaceOfAnOptimizationProblemReallyThatBig.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2014/03/27/IsTheSearchSpaceOfAnOptimizationProblemReallyThatBig.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -17177,7 +17177,7 @@ which do scale: heuristics and metaheuristics.&lt;/p&gt;
             <title type="html">How much faster is Java 8?</title>
             <updated>2014-03-20T00:00:00+00:00</updated>
             <published>2014-03-20T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2014/03/20/HowMuchFasterIsJava8.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2014/03/20/HowMuchFasterIsJava8.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -17518,7 +17518,7 @@ These are the results:&lt;/p&gt;
             <title type="html">Can MapReduce solve planning problems?</title>
             <updated>2014-03-03T00:00:00+00:00</updated>
             <published>2014-03-03T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2014/03/03/CanMapReduceSolvePlanningProblems.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2014/03/03/CanMapReduceSolvePlanningProblems.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -17752,7 +17752,7 @@ that scales well in memory, so you don&amp;#8217;t need to resort to partitionin
             <title type="html">Will Skynet control our schedule if the computer optimizes it for us?</title>
             <updated>2013-10-11T00:00:00+00:00</updated>
             <published>2013-10-11T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2013/10/11/WillSkynetControlOurSchedule.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2013/10/11/WillSkynetControlOurSchedule.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
@@ -17877,7 +17877,7 @@ There&amp;#8217;s no Skynet or HAL algorithm to disobey us&amp;#8230;&amp;#8203;
             <title type="html">False assumptions for the Vehicle Routing Problem</title>
             <updated>2013-08-06T00:00:00+00:00</updated>
             <published>2013-08-06T00:00:00+00:00</published>
-            <link href="https://www.optaplanner.org/blog/2013/08/06/FalseAssumptionsForVRP.html" rel="alternate" type="text/html" />
+            <link href="https://beautifulnature.github.io/blog/2013/08/06/FalseAssumptionsForVRP.html" rel="alternate" type="text/html" />
             <author>
                 <name>ge0ffrey</name>
             </author>
