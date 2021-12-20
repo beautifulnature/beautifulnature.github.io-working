@@ -19,6 +19,10 @@ content:
 ui:
   bundle:
     url: ./ui-bundle/ui-bundle.zip
-  supplemental_files: ./supplemental-ui
+  supplemental_files: 
+    - path: ./supplemental-ui
+        contents: |
+        static_files: [ .nojekyll ]
+    - path: .nojekyll
 runtime:
   fetch: true
