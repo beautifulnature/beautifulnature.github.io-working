@@ -9,6 +9,7 @@
 !.gitignore
 !.gitattributes
 !.htaccess
+!.nojekyll
 /nbproject
 /*.ipr
 /*.iws
