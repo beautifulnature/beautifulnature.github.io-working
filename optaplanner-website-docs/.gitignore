@@ -5,7 +5,7 @@
 /node_modules
 
 # Eclipse, Netbeans and IntelliJ files
-/.*
+#/.*
 !.gitignore
 !.gitattributes
 !.htaccess
