@@ -10,11 +10,11 @@ site:
 content:
   edit_url: "{web_url}/edit/main/{path}"
   sources:
-    - url: https://github.com/beautifulnature/optaplanner-docs.git
+    - url: git@github.com:beautifulnature/beautifulnature.github.io.git
       #- url: ../optaplanner-docs/
       # Update with every release.
       branches: [HEAD]
-      start_path: /src
+      start_path: optaplanner-website-docs/optaplanner-docs/src
       #start_path: /src
 ui:
   bundle:
