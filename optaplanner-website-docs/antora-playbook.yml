@@ -18,7 +18,7 @@ content:
       #start_path: /src
 asciidoc:
   attributes:
-    imagesdir: modules/ROOT/assets/images
+    imagesdir: docs/optaplanner/latest/images
 ui:
   bundle:
     url: ./ui-bundle/ui-bundle.zip
